@@ -1,6 +1,6 @@
-## Hey, Im Abhishek 👋
+## Hi, there  👋
 # 💫 About Me:
-<br>I'm a person who is pationate about learning and adapting new things <br>I'm a student of civil engineering 🧑‍🦱<br>Also a developer, who has developed some websites for businesses and restaurant. <br>Running project is ( E.D.I.T.H )<br>An intelligence system, who is going to shape future of engineering, and visions. 
+Hey, i'm Abhishek 👋<br>I'm a person who is pationate about learning and adapting new things <br>I'm a student of civil engineering 🧑‍🦱<br>Also a developer, who has developed some websites for businesses and restaurant. <br>Running project is ( E.D.I.T.H )<br>An intelligence system, who is going to shape future of engineering, and visions. 
 
 
 ## 🌐 Socials:
