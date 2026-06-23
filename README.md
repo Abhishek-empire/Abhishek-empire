@@ -4,7 +4,7 @@ Hey, i'm Abhishek 👋<br>I'm a person who is pationate about learning and adapt
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech.w.abhi) [![LinkedIn](https://www.linkedin.com/in/abhishek-kumar-3627a1332?utm_source=share_via&utm_content=profile&utm_medium=member_android-) [![X](https://x.com/Abhikumar579965) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarabhishek39816@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech.w.abhi) [![LinkedIn](https://img.shields.io/badge/Linkdin-%23E4405F.svg?logo=Linkdin&logoColor=Blue)](https://www.linkedin.com/in/abhishek-kumar-3627a1332?utm_source=share_via&utm_content=profile&utm_medium=member_android-) [![X](https://x.com/Abhikumar579965) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarabhishek39816@gmail.com) 
 
 # 💻 Tech Stack:
 ![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=flat-square&logoColor=white)
